@@ -158,13 +158,6 @@ Rodar todos os testes:
 npm run tests
 ```
 
-Testes individuais:
-
-```bash
-npm run loginSuccess
-npm run friendshipError
-```
-
 ---
 
 ## 🛡️ Autenticação
@@ -175,4 +168,4 @@ Todas as rotas protegidas utilizam middleware JWT. O token é armazenado no app 
 
 ## 📄 Licença
 
-Este projeto é privado/MVP e está em desenvolvimento.
+Este projeto é privado/MVP.
